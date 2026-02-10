@@ -1,0 +1,1 @@
+My name is Max, and I am interested in AP CSP because it is something that I may want to do in the future or may help me in the future, and it also sounds like a really fun class. One thing that I am curious about is how much can be done with computer science, and how coding is used in modern technology.
