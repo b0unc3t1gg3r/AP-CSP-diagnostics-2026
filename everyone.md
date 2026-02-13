@@ -31,7 +31,7 @@ Type your name, your favorite animal on any of the line below. When you are done
 23. _
 24. _
 25. _
-26. _
+26. Guadalupe Diego, Tiger
 27. _
 28. _
 29. _
