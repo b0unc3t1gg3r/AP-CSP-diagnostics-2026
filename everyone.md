@@ -12,7 +12,7 @@ Type your name, your favorite animal on any of the line below. When you are done
 4. _
 5. _Aldo Marmolejo, Dog
 6. _Maximus Sandoval, Gorillas
-7. _
+7. _ Jonathan Aguilar-Barrios, Dog
 8. _
 9. _
 10. Nathaniel Moran, Sharks
@@ -64,7 +64,7 @@ Type your name, your favorite animal on any of the line below. When you are done
 56. _
 57. _
 58. _
-59. _
+59. Christopher Gonzalez, penguin
 60. _
 61. _
 62. _
